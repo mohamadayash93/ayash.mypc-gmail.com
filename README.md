@@ -16,7 +16,7 @@ Steps you want to do to work correctly:
 3- Open project with Your IDE ( Mine is : PhpStorm)
 4- run Terminal then type : php artisan serv
 5- run these commands : 
-	-composer:install
+	- composer:install
 	- php artisan storage:link
 	- php artisan make:migrate
 	- php artisan db:seed
